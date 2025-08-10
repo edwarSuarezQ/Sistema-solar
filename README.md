@@ -30,28 +30,6 @@ Este proyecto es una simulación visual del sistema solar utilizando **Python** 
    python sistema_solar/solar_system.py
    ```
 
-## Estructura del proyecto
-
-```
-sistema_solar/
-│
-├── solar_system.py
-├── planet.py
-├── strar.py
-├── asteroid.py
-├── satelite.py
-├── celestial_object.py
-├── images/
-│   ├── sun.png
-│   ├── earth.gif
-│   └── ... (más imágenes)
-└── ...
-```
-
-## Créditos
-
-Desarrollado por [Tu Nombre].
-
 ---
 
 ¡Explora el sistema solar y aprende sobre programación orientada a objetos y simulación gráfica!
