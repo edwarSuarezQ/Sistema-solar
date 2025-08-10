@@ -8,7 +8,7 @@ Este proyecto es una simulación visual del sistema solar utilizando **Python** 
 - Simulación de órbitas y velocidades de cada cuerpo celeste.
 - Representación de campos magnéticos para planetas con núcleo activo.
 - Fondo animado y escalado de imágenes.
-  Programación- Código orientado a objetos (POO).
+  Programación orientado a objetos (POO).
 
 ## Requisitos
 
